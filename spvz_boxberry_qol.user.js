@@ -4,6 +4,7 @@
 // @version      0.0.1
 // @description  Auto focus on input for scanners and error notification sound for boxberry spvz
 // @author       robloxxa
+// @supportURL   https://github.com/robloxxa/spvz_boxberry_qol/issues
 // @match        *://spvz.boxberry.de/e*
 // @icon         https://spvz.boxberry.de/apple-touch-icon.png
 // @grant        GM_xmlhttpRequest
